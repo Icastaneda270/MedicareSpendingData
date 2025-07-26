@@ -1,7 +1,7 @@
 # 📊 Medicare Spending Data Dashboard
 
 ## Overview
-This project analyzes Medicare hospital data across the United States to explore the relationship between healthcare costs and hospital quality. It combines two datasets—one containing general hospital information and another with cost metrics—to create an interactive Tableau dashboard for visual exploration.
+This project analyzes Medicare hospital data across the United States to explore the relationship between healthcare costs and hospital quality. It combines two datasets, one containing general hospital information and another with cost metrics, to create an interactive Tableau dashboard for visual exploration.
 
 ---
 
