@@ -61,7 +61,7 @@ This project analyzes Medicare hospital data across the United States to explore
 - Enables targeted exploration of individual hospital performance
 - Ideal for benchmarking, patient research, and regional comparisons
 
-> 🖥️ **Interactive Dashboard**
+> ## 🖥️ **Interactive Dashboard**
 
 > ### 🗺️ Page 1: State-Level Overview
 > <img width="1399" height="798" alt="Medicare Spending Data Dashboard" src="https://github.com/user-attachments/assets/48990d69-5aae-4536-9684-2d5cfd652ca3" />
