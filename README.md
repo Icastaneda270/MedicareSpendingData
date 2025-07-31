@@ -44,9 +44,21 @@ This project analyzes Medicare hospital data across the United States to explore
 - **Top 5 / Bottom 5** bar charts for both cost and quality
 - **Correlation scatterplot** between spending and hospital quality
 
-> 🖥️ Dashboard Preview:  
-> ![Medicare Spending Data Dashboard](https://github.com/user-attachments/assets/f987c276-a7eb-4f35-af52-a37bd2174b66)
-> https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## 🏥 Hospital-Level Explorer (Dashboard Page 2)
+A second page in the dashboard presents a searchable, filterable list of **2,485 hospitals** that have both a **Star Rating** and a **Medicare Cost Value**.
+
+### Included Fields:
+- **State**
+- **City/Town**
+- **Facility Name**
+- **Hospital Rating**
+- **Average Hospital Cost** (relative to national median)
+
+> 🖥️ **Interactive Dashboard**  
+> 📌 View it live on Tableau Public:  
+> [https://public.tableau.com/app/profile/isaias.castaneda/viz/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard](https://public.tableau.com/app/profile/isaias.castaneda/viz/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard)
+
+> [https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
