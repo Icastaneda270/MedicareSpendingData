@@ -54,10 +54,10 @@ A second page in the dashboard presents a searchable, filterable list of **2,485
 - **Hospital Rating**
 - **Average Hospital Cost** (relative to national median)
 
-> 🖥️ **Interactive Dashboard**  
+> 🖥️ **Interactive Dashboard**
+> <img width="1399" height="799" alt="Medicare Spending Data Dashboard" src="https://github.com/user-attachments/assets/73f730fc-6639-4095-8e9f-58924ec673d9" />
+<img width="1399" height="799" alt="Medicare Hospital List" src="https://github.com/user-attachments/assets/fba74daa-9d9f-4738-83ff-08b2c246786d" />
 > 📌 View it live on Tableau Public:  
-> [https://public.tableau.com/app/profile/isaias.castaneda/viz/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard](https://public.tableau.com/app/profile/isaias.castaneda/viz/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard)
-
 > [https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -65,5 +65,5 @@ A second page in the dashboard presents a searchable, filterable list of **2,485
 
 ## 🧠 Key Insights
 - No strong correlation between higher Medicare spending and hospital quality
-- States like **Minnesota** and **Utah** offer **high-quality care at below-average costs**
-- States such as **New Jersey** and **Louisiana** have **high costs but lower-rated hospitals**
+- States like **Minnesota**, **Utah**, and **Wisconsin** offer **high-quality care at below-average costs**
+- States such as **New Jersey** and **Louisiana** have **above-average costs but lower-rated hospitals**
