@@ -62,8 +62,14 @@ This project analyzes Medicare hospital data across the United States to explore
 - Ideal for benchmarking, patient research, and regional comparisons
 
 > 🖥️ **Interactive Dashboard**
-> <img width="1399" height="799" alt="Medicare Spending Data Dashboard" src="https://github.com/user-attachments/assets/73f730fc-6639-4095-8e9f-58924ec673d9" />
-> <img width="1399" height="799" alt="Medicare Hospital List" src="https://github.com/user-attachments/assets/fba74daa-9d9f-4738-83ff-08b2c246786d" />
+
+### 🗺️ Page 1: State-Level Overview
+<img width="1399" height="798" alt="Medicare Spending Data Dashboard" src="https://github.com/user-attachments/assets/48990d69-5aae-4536-9684-2d5cfd652ca3" />
+
+
+### **🏥** Page 2: Hospital-Level Explorer
+<img width="1396" height="796" alt="Medicare Hospital List" src="https://github.com/user-attachments/assets/4e0f806e-7d9b-4ec1-9b82-c6fcfebd9a0a" />
+
 > 📌 View it live on Tableau Public:
 > https://public.tableau.com/views/MedicareHospitalSpending_17492455523140/MedicareSpendingDataDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
